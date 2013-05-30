@@ -1,0 +1,14 @@
+{
+  "name": "bluetooth App",
+  "package_path": "https://fatymoore.github.com/bluetooth-install/package/package.zip",
+  "size": 81.920 ,
+  "version": "1.0",
+  "description": "bluetooth Demo App",
+  "launch_path": "transfer.html",
+  "orientation": ["portrait-primary"],
+  "developer": {
+    "name": "Fatima Gilmartin",
+    "url": "fgl@tid.es"
+  },
+  "default_locale": "en-US"
+}
